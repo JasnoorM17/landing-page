@@ -149,7 +149,7 @@ a:focus {
     h4,
     h5,
     h6 {
-        text-align: left;
+        text-align: center;
     }
     .menu-toggle {
         display: none;
